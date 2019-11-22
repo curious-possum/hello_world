@@ -17,6 +17,8 @@
 # RStudio files
 .Rproj.user/
 
+# this is and example of an edit to a file
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
